@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy 24th Birthday</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="cake">
+        <div class="candle"></div>
+        <div class="candle"></div>
+        <div class="candle"></div>
+        <div class="candle"></div>
+        <div class="candle"></div>
+        <div class="base"></div>
+    </div>
+    <h1>Happy 24th Birthday!</h1>
+    <script src="script.js"></script>
+</body>
+</html>
